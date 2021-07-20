@@ -1,5 +1,13 @@
 # Flappy-Bird-Game
 
+Watch the video here to see this game in action.
+
+
+#### Flappy Bird Game Demo
+
+<img src="https://github.com/krishnapalS/Flappy-Bird-Game/blob/main/FlappyBird%20VideoDemo.gif" width="370" height="500">
+
+
 Flappy Bird Game is developed in Python Programming Language and it is a desktop application. This project system used a Pygame and Random module. Pygame is a cross-platform set of Python modules designed for writing video games.
 
 This Flappy Bird Game has a task record contains images file, sounds file and python contents file (main.py). The ongoing interaction Graphics is sufficient and the controls are straightforward for the clients.
@@ -12,9 +20,3 @@ This implies the more you go through green funnels, more will be the game focuse
 
 The ongoing interaction configuration is easy to such an extent that client won’t think that its hard to utilize and explore.
 
-Watch the video here to see this game in action.
-
-
-#### Flappy Bird Game Demo
-
-<img src="https://github.com/krishnapalS/Flappy-Bird-Game/blob/main/FlappyBird%20VideoDemo.gif" width="370" height="500">
